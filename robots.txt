@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://longanjob.cn/sitemap.xml
